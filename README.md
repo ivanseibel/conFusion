@@ -1,5 +1,5 @@
 # Ristorante Con Fusion
-This project is a simple static website to experiment an overview of client-side web UI frameworks, in particular Bootstrap 4. 
+This project is a simple static and responsive website to experiment an overview of client-side web UI frameworks, in particular Bootstrap 4. 
 
 ## Used technologies
 - Grids and responsive design, Bootstrap CSS and JavaScript components. 
